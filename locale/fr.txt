@@ -1,0 +1,42 @@
+#: locale=fr
+
+## Hotspot
+
+### URL
+overlay_31B7DDF2_2B26_EFB9_419B_286DBB1FCEA1.url = //www.youtube.com/embed/I3PPgH3esV0?feature=share
+
+## Media
+
+### Image
+imlevel_336E281D_24E1_1468_41B4_86D69471956F.url = media/popup_353952A3_25E7_345F_41BB_D0D49E915911_fr_0_0.webp
+imlevel_336E381D_24E1_1468_41A6_3949893AEDA4.url = media/popup_353952A3_25E7_345F_41BB_D0D49E915911_fr_0_1.webp
+imlevel_336E481D_24E1_1468_41B3_DA62AD6DDCBA.url = media/popup_353952A3_25E7_345F_41BB_D0D49E915911_fr_0_2.webp
+
+### Popup Image
+
+### Title
+panorama_2821DF84_2405_0361_41B6_0CAC397893C2.label = Balcony
+panorama_2EEF72AB_2407_02A7_41B9_2EC7656C792A.label = Bathroom
+panorama_2A191F77_2407_03A0_41B5_4724854B9E7A.label = Garden
+panorama_2EEE88E7_2407_0EAF_41C0_9C90D9404C40.label = Living room
+panorama_2EEBAE7C_2407_05A1_418A_E81BD037E7AB.label = room
+video_3FC402E4_24E1_15D9_41BF_8BAB4F0D051C.label = vid_presentation
+panorama_28FA9F56_24E1_2CF8_418A_244F3A48F1F2.label = wc
+
+### Video
+videolevel_3112108D_2B21_146B_41AC_9960E574509A.url = media/video_3FC402E4_24E1_15D9_41BF_8BAB4F0D051C_fr.mp4
+videolevel_3112108D_2B21_146B_41AC_9960E574509A.posterURL = media/video_3FC402E4_24E1_15D9_41BF_8BAB4F0D051C_poster_fr.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Multiline Text
+HTMLText_338D33AA_24E1_3BA9_41AD_EB20C1CDC120.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Virutal Tour</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;font-family:'Arial Rounded MT Bold';"><B>Created By Justin Munro</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:15px;"><B>mail</B></SPAN><SPAN STYLE="font-size:15px;"><B> justin.munro5@gmail.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:15px;"><B>whatsapp </B></SPAN><SPAN STYLE="font-size:15px;"><B>+33695176320 </B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = House koh koh khao
